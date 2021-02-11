@@ -17,9 +17,10 @@
 ## Description
 Circle is a full-stack, well rounded restaurant management application. It allows users, such as customers, to add items to their order while also facilitating restaurant administrative functions. On the administrative side this would include additional features such as adding, editing and deleting existing orders.
 ![Main Page](public/assets/main.gif)
+
 -----------------------
 ## Deployed link
-[add heroku link here]
+https://circle-restaurant-mgmt-01.herokuapp.com/admin
 
 -----------------------
 ## Installation
