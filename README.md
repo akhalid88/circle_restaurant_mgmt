@@ -65,7 +65,7 @@ Orders.associate = function (models) {
 };
 ```
 
-<!-- [Add comments here] -->
+We have several routes for items, orders, and seating. The items and seating routes are used to give the user and admin both functionality with adding orders, editing and deleting orders. The seating routes are used for displaying the orders and keeping track of customers.
 
 ```javascript
 app.get("/api/orders/seating/:id", function (req, res) {
